@@ -102,4 +102,4 @@ for x in range(len(formula)):
 
 print(part1, part2)
 
-#(p>(~p))<>p
+#(p>(~p))<>p test formula
